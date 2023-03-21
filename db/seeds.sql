@@ -1,10 +1,10 @@
 -- Inserts names of departments into department table
 INSERT INTO department (name)
 VALUES
-('Engineering'),
-('Finance'),
-('Legal'),
-('Sales');
+    ('Engineering'),
+    ('Finance'),
+    ('Legal'),
+    ('Sales');
 
 -- Inserts roles of employee into role table
 INSERT INTO role (title, salary, department_id)
@@ -21,11 +21,11 @@ VALUES
 -- Inserts employee information into employee table
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
-('Hamze', 'Mohamed', 1, 4),
-('Deka', 'Ali', 2, 3),
-('Ismail', 'Soubaneh', 3, 1),
-('Nasteho', 'Nuradin', 4, 5)
-('Erig', 'Erig', 5, null),
-('Rahma', 'Hassan', 6, null),
-('Salma', 'Mohamed', 7, null),
-('Aydin', 'Osman', 8, null);
+    ('Hamze', 'Mohamed', 1, 4),
+    ('Deka', 'Ali', 2, 3),
+    ('Ismail', 'Soubaneh', 3, 1),
+    ('Nasteho', 'Nuradin', 4, 5),
+    ('Erig', 'Erig', 5, NULL),
+    ('Rahma', 'Hassan', 6, NULL),
+    ('Salma', 'Mohamed', 7, NULL),
+    ('Aydin', 'Osman', 8, NULL);
