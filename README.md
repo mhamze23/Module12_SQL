@@ -30,7 +30,8 @@ Acceptance Criteria
 
 Screenshots 
 * The following animation demonstrates the application functionality:
-![Screenshot 2023-03-13 at 11 40 28 PM](https://user-images.githubusercontent.com/115047281/224887394-c6415104-442a-4a28-91e8-3139e0336304.png)
+https://user-images.githubusercontent.com/115047281/226509272-fca41282-1cb6-49cd-a0c1-bdf773722c03.mov
+
 
 
 
