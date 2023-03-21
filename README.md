@@ -30,7 +30,9 @@ Acceptance Criteria
 
 Screenshots 
 * The following animation demonstrates the application functionality:
-https://user-images.githubusercontent.com/115047281/226509272-fca41282-1cb6-49cd-a0c1-bdf773722c03.mov
+
+https://user-images.githubusercontent.com/115047281/226509355-d8eedb68-ba8e-4700-933d-565c3232d50c.mov
+
 
 
 
